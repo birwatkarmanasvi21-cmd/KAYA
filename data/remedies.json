@@ -1,0 +1,330 @@
+[
+  {
+    "condition": "headache",
+    "symptoms": [
+      "headache", "head hurts", "my head is hurting", "pain in head", "pressure in head", 
+      "sir dard", "sar dard", "mere sir mein dard hai", "dok dukhta", "dok dukhtay", 
+      "majha dok dukhta", "migraine", "forehead throbbing", "sir ghum raha hai", 
+      "doke dukhne", "doke dukhtey", "sir me bohot dard hai", "doke khup dukhtay", 
+      "सिर दर्द", "डोकं दुखतंय", "headache hotoy", "heavy head feeling", "sir bhari ho gaya hai"
+    ],
+    "remedies": [
+      "Apply peppermint oil", "Rest in a quiet room", "Drink ginger tea", 
+      "Rub a small amount of Dalchini (Cinnamon) powder mixed with water into a paste and apply to the forehead", 
+      "Eat a fresh sweet apple on an empty stomach in the morning"
+    ]
+  },
+  {
+    "condition": "cough",
+    "symptoms": [
+      "cough", "dry cough", "wet cough", "coughing a lot", "throat irritation", "khokla", 
+      "mala khokla aahe", "khup khokla yetoy", "cough ho raha hai", "mucus", "khansi", 
+      "bohot khansi aa rahi hai", "khokla yetoy", "sukhi khansi", "khansna", "coughing problem", 
+      "खोकला", "खांसी", "khokla problem", "coughing non stop", "balgam wali khansi"
+    ],
+    "remedies": [
+      "Drink warm water with honey", "Take ginger tea", "Consume turmeric milk", 
+      "Chew tulsi leaves", "Gargle with warm water mixed with 1/2 tsp salt and 1/4 tsp turmeric powder"
+    ]
+  },
+  {
+    "condition": "cold",
+    "symptoms": [
+      "cold", "runny nose", "nose is running", "blocked nose", "sneezing", "sardi", 
+      "mala sardi aahe", "naak vahtey", "naak beh raha hai", "jukam", "zukam", "congestion", 
+      "naak block", "nose block jhala", "sardi jukham", "sarzam", "shinka yet ahet", 
+      "shinka", "chink aa rahi hai", "सर्दी", "जुकाम", "naak pack jhalay", "running nose"
+    ],
+    "remedies": [
+      "Steam inhalation with Carom seeds (Ajwain)", "Tulsi ginger kadha", "Apply eucalyptus oil", 
+      "Mix equal parts of dry ginger powder, black pepper, and long pepper (Trikatu Churna) with honey"
+    ]
+  },
+  {
+    "condition": "sore throat",
+    "symptoms": [
+      "sore throat", "throat pain", "my throat hurts", "throat hurting", "pain while swallowing", 
+      "ghasa dukhtoy", "ghasa dukhta", "gala dukh raha hai", "gala kharab hai", "voice hoarse", 
+      "gale me khich khich", "ghasa basla", "gala baith gaya", "gale me jalan", "ghasyaat traas", 
+      "गळा दुखतोय", "गले में दर्द", "throat infection", "swallowing pain", "gale me kharash"
+    ],
+    "remedies": [
+      "Gargle with warm salt water", "Drink honey lemon tea", "Avoid spicy food", 
+      "Slowly chew on a small piece of licorice root (Mulethi)"
+    ]
+  },
+  {
+    "condition": "fever",
+    "symptoms": [
+      "fever", "i have fever", "body feels hot", "high temperature", "mild fever", "bukhar", 
+      "tap aala", "mala tap aahe", "fever jaisa lag raha hai", "body ache", "fatigue", 
+      "ang taplay", "badan garam hai", "thandi bajtey", "thand lag rahi hai", "shivering", 
+      "बुखार", "ताप", "body pain and fever", "tap jaisa lagtoy", "ang dukhtay"
+    ],
+    "remedies": [
+      "Drink plenty of fluids", "Take rest", "Turmeric milk", 
+      "Boil a handful of Tulsi leaves with 1 tsp of crushed ginger in water until it reduces to half, strain and drink"
+    ]
+  },
+  {
+    "condition": "indigestion",
+    "symptoms": [
+      "indigestion", "bloating", "gas", "stomach discomfort", "stomach feels heavy", "pet dukhta", 
+      "pet kharab hai", "gas ho rahi hai", "phugla pet", "ajirna", "flatulence", "pot फुगले", 
+      "apachan", "heavy stomach", "pet saaf nahi hua", "potat gas jhalay", "digestion problem", 
+      "पेट खराब", "पोट दुखतंय", "acidity gas", "stomach bloating"
+    ],
+    "remedies": [
+      "Drink jeera water", "Eat ajwain with salt", "Avoid oily food", 
+      "Prepare Cumin-Coriander-Fennel (CCF) tea to stimulate digestion"
+    ]
+  },
+  {
+    "condition": "acidity",
+    "symptoms": [
+      "acidity", "heartburn", "burning in chest", "acid reflux", "jalan ho rahi hai", 
+      "chhati mein jalan", "pitta spike", "chhatit jalan hotey", "pitta", "acidity ho gayi hai", 
+      "sour burps", "khate dakar", "khatte dakar", "एसिडिटी", "पित्त", "chest burning", "acidity traas"
+    ],
+    "remedies": [
+      "Drink cold milk", "Eat banana", "Consume fennel seeds", 
+      "Chew 2-3 raw Mint or Basil (Tulsi) leaves thoroughly after meals", 
+      "Suck on a single piece of Clove (Laung)"
+    ]
+  },
+  {
+    "condition": "toothache",
+    "symptoms": [
+      "toothache", "tooth pain", "pain in tooth", "gum pain", "daat dukhtoy", "daat dukhta", 
+      "dant dukh raha hai", "daat dukhne", "madi dukhne", "gums swelling", "mori madhe dard", 
+      "दांत दर्द", "दात दुखतोय", "tooth cavity pain", "jaw pain"
+    ],
+    "remedies": [
+      "Apply clove oil", "Rinse with warm salt water", "Chew garlic", 
+      "Press a whole clove piece gently between the aching teeth"
+    ]
+  },
+  {
+    "condition": "constipation",
+    "symptoms": [
+      "constipation", "hard stool", "not able to poop", "difficulty passing stool", "pot saf hot nahi", 
+      "shauch nahi ho raha", "irregular bowel", "kabz", "pet saaf nahi hota", "kabziat", 
+      "pot saaf hot nahiye", "stools are hard", "कब्ज", "पोट साफ होत नाही", "toilet tight ho raha hai"
+    ],
+    "remedies": [
+      "Drink warm water in morning", "Eat fiber-rich foods", "Consume soaked raisins", 
+      "Take 1 teaspoon of Triphala powder mixed with warm water just before sleeping", 
+      "Drink a glass of warm milk with 1 teaspoon of pure Ghee at bedtime"
+    ]
+  },
+  {
+    "condition": "diarrhea",
+    "symptoms": [
+      "diarrhea", "loose motion", "frequent toilet", "stomach upset", "julaab", 
+      "loose motion ho raha hai", "pete kharab", "frequent stools", "watery motions", 
+      "baas toilet jana pad raha hai", "hageen", "dust jhaley", "dast lag gaye", 
+      "जुलाब", "दस्त", "loose motions continuous", "pot sutla"
+    ],
+    "remedies": [
+      "Drink ORS", "Eat banana and curd", "Stay hydrated", 
+      "Mix pomegranate leaf juice into a glass of buttermilk and drink", 
+      "Sip plain black tea with a few drops of freshly squeezed lemon juice"
+    ]
+  },
+  {
+    "condition": "vomiting",
+    "symptoms": [
+      "vomiting", "feeling like vomiting", "nausea", "throwing up", "ulti jaisi ho rahi hai", 
+      "ulti ho rahi hai", "ghabarahat", "motion sickness", "ulti", "koolti", "malyal jaisa lag raha hai", 
+      "malmal hotey", "vomit sensation", "उल्टी", "उलटी", "vomit ho jayega lag raha hai"
+    ],
+    "remedies": [
+      "Drink ginger tea", "Sip water slowly", "Avoid heavy food", 
+      "Slowly suck on a single pod of Cardamom (Elaichi) to suppress the reflex"
+    ]
+  },
+  {
+    "condition": "ear pain",
+    "symptoms": [
+      "ear pain", "earache", "pain in ear", "kaan dukhtoy", "kaan dukhta", "kaan me dard", 
+      "kaanat dukhtay", "ear blocked pain", "कान दर्द", "कान दुखतोय", "kaan me aawaj aa raha hai"
+    ],
+    "remedies": [
+      "Use warm garlic oil drops", "Apply warm compress", "Avoid cold exposure"]
+  },
+  {
+    "condition": "eye irritation",
+    "symptoms": [
+      "eye irritation", "itchy eyes", "red eyes", "eyes burning", "dole jalat aahet", 
+      "ankh jal rahi hai", "dry eyes", "blurry vision from screens", "ankho me jalan", 
+      "dole lal jhale", "ankh lal ho gayi", "ankho se pani aa raha hai", "आँखों में जलन", "डोळे येणे"
+    ],
+    "remedies": [
+      "Wash with clean water", "Use rose water", "Rest eyes", 
+      "Place two clean cotton pads soaked in pure Rosewater over closed eyelids"
+    ]
+  },
+  {
+    "condition": "joint pain",
+    "symptoms": [
+      "joint pain", "knee pain", "body stiffness", "pain in joints", "sandhe dukhtat", 
+      "joint dukh raha hai", "arthritis", "vat pain", "ghutno me dard", "mungya yene", 
+      "joint tight ho gaye hain", "khande dukhtat", "ghutna dukhna", "जोड़ों का दर्द", "सांधे दुखी"
+    ],
+    "remedies": [
+      "Apply warm oil massage", "Drink turmeric milk", "Do light stretching", 
+      "Massage with warm Sesame oil (Til ka tel) or Mahanarayan oil daily", 
+      "Consume 1/2 teaspoon of dry Ginger powder (Sunth) with warm water"
+    ]
+  },
+  {
+    "condition": "back pain",
+    "symptoms": [
+      "back pain", "lower back pain", "back hurts", "stiff back", "path dukhtey", 
+      "path dukhta", "back dukh raha hai", "muscle catch", "lumbar ache", "kamar dard", 
+      "pathit kal yetey", "backbone pain", "kamar me lachak", "कमर दर्द", "पाठ दुखणे"
+    ],
+    "remedies": [
+      "Apply heat pack", "Do gentle stretching", "Maintain proper posture", 
+      "Apply a warm poultice made of crushed Garlic cloves sautéed in mustard oil directly over the back"
+    ]
+  },
+  {
+    "condition": "hair fall and dandruff",
+    "symptoms": [
+      "hair fall", "hair loss", "hair thinning", "baal gir rahe hain", "kes galtat", 
+      "konda", "dandruff zala aahe", "dry scalp", "flaky scalp", "itchy scalp", "dandruff", 
+      "baal jhad rahe hain", "kes गळणे", "baalo me rusi", "hair damage", "रूसी", "केस गळती"
+    ],
+    "remedies": [
+      "Apply coconut oil", "Use onion juice", "Eat nutritious food", 
+      "Massage with warm coconut oil infused with fresh Curry leaves (Kadi Patta) or Amla", 
+      "Apply a hair mask of yogurt mixed with 1 tsp of powdered Fenugreek (Methi) seeds", 
+      "Apply neem paste or wash hair with neem-infused water"
+    ]
+  },
+  {
+    "condition": "skin rash",
+    "symptoms": [
+      "skin rash", "itching", "redness on skin", "twacha la khaj yete", "khaj aahe", 
+      "pimples", "acne", "skin irritation", "rashes", "khujli ho rahi hai", "skin lal jhalie", 
+      "pimple problem", "body me itching", "त्वचा रोग", "खुजली"
+    ],
+    "remedies": [
+      "Apply aloe vera gel", "Use neem paste", "Take cool bath", 
+      "Mix a pinch of turmeric powder with sandalwood paste and apply to spots"]
+  },
+  {
+    "condition": "stress",
+    "symptoms": [
+      "stress", "anxiety", "feeling stressed", "mental fatigue", "tension aahe", 
+      "bahut stress hai", "mind racing", "doke shaant nahi", "tension ho raha hai", 
+      "g ghabra raha hai", "mental load", "चिंता", "तणाव", "bohot panic lag raha hai"
+    ],
+    "remedies": [
+      "Practice meditation", "Drink herbal tea", "Get proper sleep", 
+      "Take 1/2 teaspoon of Ashwagandha root powder mixed with a glass of warm milk at bedtime", 
+      "Practice 5-10 minutes of Nadi Shodhana (Alternate Nostril Breathing)"
+    ]
+  },
+  {
+    "condition": "insomnia",
+    "symptoms": [
+      "insomnia", "cant sleep", "difficulty sleeping", "not able to sleep", "neend nahi aa rahi", 
+      "jhop yet nahi", "restlessness at night", "raat bhar jhop nahi aali", "neend ka dikkat", 
+      "sleepless night", "अनिद्रा", "झोप येत नाही", "can't sleep at all"
+    ],
+    "remedies": [
+      "Drink warm milk before bed", "Avoid screens", "Practice relaxation", 
+      "Massage warm sesame oil onto the soles of your feet before bed", 
+      "Drink a warm cup of milk infused with a tiny pinch of nutmeg powder"
+    ]
+  },
+  {
+    "condition": "immunity and fatigue",
+    "symptoms": [
+      "weakness", "low energy", "frequent infections", "immunity boosting", "thakvat", 
+      "kamzori", "fatigue", "kamzori lag rahi hai", "thakva aala aahe", "body has no energy", 
+      "galyat infection bar bar hota hai", "थकावट", "कमजोरी", "low stamina"
+    ],
+    "remedies": [
+      "Drink warm Golden Milk (Haldi Doodh) with 1/2 tsp turmeric powder at bedtime", 
+      "Consume 1 teaspoon of Chyawanprash daily morning on an empty stomach", 
+      "Amla (Indian Gooseberry) juice or raw powder daily"
+    ]
+  },
+  {
+    "condition": "high blood sugar support",
+    "symptoms": [
+      "sugar control", "diabetes support", "frequent urination", "high glucose", "madhumeha", 
+      "sugar badh gaya hai", "diabetes chya traas", "blood sugar high", "sugar patient remedies", 
+      "मधुमेह", "शुगर कंट्रोल"
+    ],
+    "remedies": [
+      "Drink 1 glass of water containing 1 teaspoon of bitter melon (Karela) juice mixed with Jamun seed powder", 
+      "Consume 1/2 teaspoon of organic Cinnamon (Dalchini) powder mixed into lukewarm water daily", 
+      "Chew 5-6 fresh Curry leaves on an empty stomach"
+    ]
+  },
+  {
+    "condition": "urinary tract burning",
+    "symptoms": [
+      "burning urination", "mutrakrichra", "urine irritation", "pitta urinary infection", 
+      "urine me jalan", "su su me jalan", "peshab me jalan", "urine pass karne me dard", 
+      "लघवी करताना आग होणे", "मूत्र मार्ग जलन"
+    ],
+    "remedies": [
+      "Boil 1 tablespoon of Coriander seeds (Dhania) in water, let it cool, and drink throughout the day", 
+      "Drink fresh, unsweetened Coconut water twice a day to reduce body heat"
+    ]
+  },
+  {
+    "condition": "menstrual cramps",
+    "symptoms": [
+      "period pain", "stomach cramps", "menstrual ache", "pete dukhna during periods", 
+      "periods me bohot pain hai", "monthly periods stomach ache", "poti dukhne periods", 
+      "मासिक पाळीचा त्रास", "पीरियड्स दर्द"
+    ],
+    "remedies": [
+      "Place a hot water bag across the lower abdomen", 
+      "Sip a warm brew made by boiling 1 teaspoon of Fennel seeds (Saunf) and a tiny piece of jaggery", 
+      "Consume a pinch of Asafoetida (Hing) mixed into warm water"
+    ]
+  },
+  {
+    "condition": "sunstroke and body heat",
+    "symptoms": [
+      "sunstroke", "garmi lagna", "body heat", "dehydration", "too hot", "loo lag gayi", 
+      "ushnata jhalie", "sharir me garmi", "body over heating", "ऊन लागणे", "लू लगना"
+    ],
+    "remedies": [
+      "Drink a glass of traditional Aam Panna (raw mango beverage cooked with cumin, mint, and salt)", 
+      "Apply a thin layer of freshly grated white sandalwood paste across the forehead", 
+      "Sip Kokum juice mixed with plain water"
+    ]
+  },
+  {
+    "condition": "low blood pressure and dizziness",
+    "symptoms": [
+      "चककर", "chakkar", "dizziness", "low BP feeling", "giddiness", "chakkar aa raha hai", 
+      "bp low jhalay", "doka ghumtay", "fainting feeling", "चक्कर येणे"
+    ],
+    "remedies": [
+      "Drink a tall glass of water mixed with 1/2 teaspoon of rock salt (Sendha namak) and 1 tablespoon of sugar/honey", 
+      "Eat a handful of soaked and peeled almonds crushed into a cup of warm milk", 
+      "Sit down immediately and lower your head between your knees"
+    ]
+  },
+  {
+    "condition": "anemia and iron deficiency",
+    "symptoms": [
+      "khoon ki kami", "pale skin", "anemia", "low hemoglobin", "raktalpa", "rurhir kami", 
+      "body me khoon kam hai", "raktachi kamtarta", "रक्ताल्पता", "khoon vadhane"
+    ],
+    "remedies": [
+      "Drink fresh Beetroot and Carrot juice mixed with fresh lemon juice every alternate morning", 
+      "Eat 2-3 black dried dates or a handful of soaked black raisins (Kishmish) daily", 
+      "Cook your daily meals using traditional cast-iron cookware"
+    ]
+  }
+]

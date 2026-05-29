@@ -1,0 +1,261 @@
+{"anchor": "my head hurts", "positive": "headache"}
+{"anchor": "pain in my head", "positive": "headache"}
+{"anchor": "i have headache", "positive": "headache"}
+{"anchor": "pressure in head", "positive": "headache"}
+{"anchor": "sir dard", "positive": "headache"}
+{"anchor": "sar dard", "positive": "headache"}
+{"anchor": "mere sir mein dard hai", "positive": "headache"}
+{"anchor": "dok dukhta", "positive": "headache"}
+{"anchor": "dok dukhtay", "positive": "headache"}
+{"anchor": "majha dok dukhta", "positive": "headache"}
+{"anchor": "sir ghum raha hai", "positive": "headache"}
+{"anchor": "doke dukhne", "positive": "headache"}
+{"anchor": "sir me bohot dard hai", "positive": "headache"}
+{"anchor": "doke khup dukhtay", "positive": "headache"}
+{"anchor": "सिर दर्द", "positive": "headache"}
+{"anchor": "डोकं दुखतंय", "positive": "headache"}
+{"anchor": "headache hotoy", "positive": "headache"}
+{"anchor": "heavy head feeling", "positive": "headache"}
+{"anchor": "sir bhari ho gaya hai", "positive": "headache"}
+{"anchor": "i am coughing", "positive": "cough"}
+{"anchor": "dry cough problem", "positive": "cough"}
+{"anchor": "coughing a lot", "positive": "cough"}
+{"anchor": "throat irritation cough", "positive": "cough"}
+{"anchor": "khokla", "positive": "cough"}
+{"anchor": "mala khokla aahe", "positive": "cough"}
+{"anchor": "khup khokla yetoy", "positive": "cough"}
+{"anchor": "cough ho raha hai", "positive": "cough"}
+{"anchor": "khansi", "positive": "cough"}
+{"anchor": "bohot khansi aa rahi hai", "positive": "cough"}
+{"anchor": "sukhi khansi", "positive": "cough"}
+{"anchor": "खोकला", "positive": "cough"}
+{"anchor": "खांसी", "positive": "cough"}
+{"anchor": "coughing non stop", "positive": "cough"}
+{"anchor": "balgam wali khansi", "positive": "cough"}
+{"anchor": "my nose is running", "positive": "cold"}
+{"anchor": "i have cold", "positive": "cold"}
+{"anchor": "blocked nose and sneezing", "positive": "cold"}
+{"anchor": "runny nose problem", "positive": "cold"}
+{"anchor": "sardi", "positive": "cold"}
+{"anchor": "mala sardi aahe", "positive": "cold"}
+{"anchor": "naak vahtey", "positive": "cold"}
+{"anchor": "naak beh raha hai", "positive": "cold"}
+{"anchor": "jukam", "positive": "cold"}
+{"anchor": "zukam", "positive": "cold"}
+{"anchor": "naak block", "positive": "cold"}
+{"anchor": "nose block jhala", "positive": "cold"}
+{"anchor": "sardi jukham", "positive": "cold"}
+{"anchor": "shinka yet ahet", "positive": "cold"}
+{"anchor": "सर्दी", "positive": "cold"}
+{"anchor": "जुकाम", "positive": "cold"}
+{"anchor": "naak pack jhalay", "positive": "cold"}
+{"anchor": "my throat hurts", "positive": "sore throat"}
+{"anchor": "pain while swallowing", "positive": "sore throat"}
+{"anchor": "throat pain", "positive": "sore throat"}
+{"anchor": "scratchy throat feeling", "positive": "sore throat"}
+{"anchor": "ghasa dukhtoy", "positive": "sore throat"}
+{"anchor": "gala dukh raha hai", "positive": "sore throat"}
+{"anchor": "gala kharab hai", "positive": "sore throat"}
+{"anchor": "gale me khich khich", "positive": "sore throat"}
+{"anchor": "ghasa basla", "positive": "sore throat"}
+{"anchor": "gala baith gaya", "positive": "sore throat"}
+{"anchor": "गळा दुखतोय", "positive": "sore throat"}
+{"anchor": "गले में दर्द", "positive": "sore throat"}
+{"anchor": "gale me kharash", "positive": "sore throat"}
+{"anchor": "i have fever", "positive": "fever"}
+{"anchor": "body feels hot", "positive": "fever"}
+{"anchor": "high temperature", "positive": "fever"}
+{"anchor": "feeling feverish", "positive": "fever"}
+{"anchor": "bukhar", "positive": "fever"}
+{"anchor": "tap aala", "positive": "fever"}
+{"anchor": "mala tap aahe", "positive": "fever"}
+{"anchor": "fever jaisa lag raha hai", "positive": "fever"}
+{"anchor": "ang taplay", "positive": "fever"}
+{"anchor": "badan garam hai", "positive": "fever"}
+{"anchor": "thandi bajtey", "positive": "fever"}
+{"anchor": "thand lag rahi hai", "positive": "fever"}
+{"anchor": "बुखार", "positive": "fever"}
+{"anchor": "ताप", "positive": "fever"}
+{"anchor": "tap jaisa lagtoy", "positive": "fever"}
+{"anchor": "ang dukhtay", "positive": "fever"}
+{"anchor": "stomach feels heavy", "positive": "indigestion"}
+{"anchor": "gas and bloating", "positive": "indigestion"}
+{"anchor": "indigestion problem", "positive": "indigestion"}
+{"anchor": "stomach discomfort", "positive": "indigestion"}
+{"anchor": "pet dukhta", "positive": "indigestion"}
+{"anchor": "pet kharab hai", "positive": "indigestion"}
+{"anchor": "gas ho rahi hai", "positive": "indigestion"}
+{"anchor": "phugla pet", "positive": "indigestion"}
+{"anchor": "apachan", "positive": "indigestion"}
+{"anchor": "pet saaf nahi hua", "positive": "indigestion"}
+{"anchor": "potat gas jhalay", "positive": "indigestion"}
+{"anchor": "पेट खराब", "positive": "indigestion"}
+{"anchor": "पोट दुखतंय", "positive": "indigestion"}
+{"anchor": "burning in chest", "positive": "acidity"}
+{"anchor": "acid reflux issue", "positive": "acidity"}
+{"anchor": "heartburn feeling", "positive": "acidity"}
+{"anchor": "acidity problem", "positive": "acidity"}
+{"anchor": "jalan ho rahi hai", "positive": "acidity"}
+{"anchor": "chhati mein jalan", "positive": "acidity"}
+{"anchor": "chhatit jalan hotey", "positive": "acidity"}
+{"anchor": "pitta", "positive": "acidity"}
+{"anchor": "acidity ho gayi hai", "positive": "acidity"}
+{"anchor": "sour burps", "positive": "acidity"}
+{"anchor": "khatte dakar", "positive": "acidity"}
+{"anchor": "एसिडिटी", "positive": "acidity"}
+{"anchor": "पित्त", "positive": "acidity"}
+{"anchor": "tooth is hurting", "positive": "toothache"}
+{"anchor": "pain in tooth", "positive": "toothache"}
+{"anchor": "gum pain", "positive": "toothache"}
+{"anchor": "toothache problem", "positive": "toothache"}
+{"anchor": "daat dukhtoy", "positive": "toothache"}
+{"anchor": "dant dukh raha hai", "positive": "toothache"}
+{"anchor": "madi dukhne", "positive": "toothache"}
+{"anchor": "दांत दर्द", "positive": "toothache"}
+{"anchor": "दात दुखतोय", "positive": "toothache"}
+{"anchor": "not able to poop", "positive": "constipation"}
+{"anchor": "hard stool issue", "positive": "constipation"}
+{"anchor": "difficulty passing stool", "positive": "constipation"}
+{"anchor": "constipation problem", "positive": "constipation"}
+{"anchor": "pot saf hot nahi", "positive": "constipation"}
+{"anchor": "shauch nahi ho raha", "positive": "constipation"}
+{"anchor": "kabz", "positive": "constipation"}
+{"anchor": "pet saaf nahi hota", "positive": "constipation"}
+{"anchor": "pot saaf hot nahiye", "positive": "constipation"}
+{"anchor": "कब्ज", "positive": "constipation"}
+{"anchor": "पोट साफ होत नाही", "positive": "constipation"}
+{"anchor": "loose motion", "positive": "diarrhea"}
+{"anchor": "frequent toilet visits", "positive": "diarrhea"}
+{"anchor": "stomach upset diarrhea", "positive": "diarrhea"}
+{"anchor": "diarrhea problem", "positive": "diarrhea"}
+{"anchor": "julaab", "positive": "diarrhea"}
+{"anchor": "loose motion ho raha hai", "positive": "diarrhea"}
+{"anchor": "dust jhaley", "positive": "diarrhea"}
+{"anchor": "dast lag gaye", "positive": "diarrhea"}
+{"anchor": "जुलाब", "positive": "diarrhea"}
+{"anchor": "दस्त", "positive": "diarrhea"}
+{"anchor": "feeling like vomiting", "positive": "vomiting"}
+{"anchor": "i am vomiting", "positive": "vomiting"}
+{"anchor": "nausea feeling", "positive": "vomiting"}
+{"anchor": "throwing up", "positive": "vomiting"}
+{"anchor": "ulti jaisi ho rahi hai", "positive": "vomiting"}
+{"anchor": "ulti ho rahi hai", "positive": "vomiting"}
+{"anchor": "ghabarahat", "positive": "vomiting"}
+{"anchor": "malmal hotey", "positive": "vomiting"}
+{"anchor": "उल्टी", "positive": "vomiting"}
+{"anchor": "उलटी", "positive": "vomiting"}
+{"anchor": "ear is hurting", "positive": "ear pain"}
+{"anchor": "earache problem", "positive": "ear pain"}
+{"anchor": "pain in ear", "positive": "ear pain"}
+{"anchor": "kaan dukhtoy", "positive": "ear pain"}
+{"anchor": "kaan me dard", "positive": "ear pain"}
+{"anchor": "kaanat dukhtay", "positive": "ear pain"}
+{"anchor": "कान दर्द", "positive": "ear pain"}
+{"anchor": "कान दुखतोय", "positive": "ear pain"}
+{"anchor": "my eyes are itchy", "positive": "eye irritation"}
+{"anchor": "eyes are red", "positive": "eye irritation"}
+{"anchor": "eye burning feeling", "positive": "eye irritation"}
+{"anchor": "dole jalat aahet", "positive": "eye irritation"}
+{"anchor": "ankh jal rahi hai", "positive": "eye irritation"}
+{"anchor": "dole lal jhale", "positive": "eye irritation"}
+{"anchor": "ankh lal ho gayi", "positive": "eye irritation"}
+{"anchor": "आँखों में जलन", "positive": "eye irritation"}
+{"anchor": "डोळे येणे", "positive": "eye irritation"}
+{"anchor": "knee pain", "positive": "joint pain"}
+{"anchor": "pain in joints", "positive": "joint pain"}
+{"anchor": "body stiffness", "positive": "joint pain"}
+{"anchor": "sandhe dukhtat", "positive": "joint pain"}
+{"anchor": "joint dukh raha hai", "positive": "joint pain"}
+{"anchor": "ghutno me dard", "positive": "joint pain"}
+{"anchor": "khande dukhtat", "positive": "joint pain"}
+{"anchor": "जोड़ों का दर्द", "positive": "joint pain"}
+{"anchor": "सांधे दुखी", "positive": "joint pain"}
+{"anchor": "my back hurts", "positive": "back pain"}
+{"anchor": "lower back pain", "positive": "back pain"}
+{"anchor": "back pain problem", "positive": "back pain"}
+{"anchor": "path dukhtey", "positive": "back pain"}
+{"anchor": "back dukh raha hai", "positive": "back pain"}
+{"anchor": "kamar dard", "positive": "back pain"}
+{"anchor": "कमर दर्द", "positive": "back pain"}
+{"anchor": "पाठ दुखणे", "positive": "back pain"}
+{"anchor": "hair falling a lot", "positive": "hair fall and dandruff"}
+{"anchor": "hair loss problem", "positive": "hair fall and dandruff"}
+{"anchor": "hair thinning", "positive": "hair fall and dandruff"}
+{"anchor": "baal gir rahe hain", "positive": "hair fall and dandruff"}
+{"anchor": "kes galtat", "positive": "hair fall and dandruff"}
+{"anchor": "baal jhad rahe hain", "positive": "hair fall and dandruff"}
+{"anchor": "kes गळणे", "positive": "hair fall and dandruff"}
+{"anchor": "केस गळती", "positive": "hair fall and dandruff"}
+{"anchor": "itchy scalp", "positive": "hair fall and dandruff"}
+{"anchor": "flakes in hair", "positive": "hair fall and dandruff"}
+{"anchor": "dandruff problem", "positive": "hair fall and dandruff"}
+{"anchor": "konda", "positive": "hair fall and dandruff"}
+{"anchor": "dandruff zala aahe", "positive": "hair fall and dandruff"}
+{"anchor": "baalo me rusi", "positive": "hair fall and dandruff"}
+{"anchor": "रूसी", "positive": "hair fall and dandruff"}
+{"anchor": "skin is itchy", "positive": "skin rash"}
+{"anchor": "redness on skin", "positive": "skin rash"}
+{"anchor": "skin rash issue", "positive": "skin rash"}
+{"anchor": "twacha la khaj yete", "skin rash": "skin rash"}
+{"anchor": "khaj aahe", "positive": "skin rash"}
+{"anchor": "khujli ho rahi hai", "positive": "skin rash"}
+{"anchor": "body me itching", "positive": "skin rash"}
+{"anchor": "खुजली", "positive": "skin rash"}
+{"anchor": "feeling stressed", "positive": "stress"}
+{"anchor": "mental tension", "positive": "stress"}
+{"anchor": "anxiety feeling", "positive": "stress"}
+{"anchor": "tension aahe", "positive": "stress"}
+{"anchor": "bahut stress hai", "positive": "stress"}
+{"anchor": "tension ho raha hai", "positive": "stress"}
+{"anchor": "चिंता", "positive": "stress"}
+{"anchor": "तणाव", "positive": "stress"}
+{"anchor": "cant sleep", "positive": "insomnia"}
+{"anchor": "difficulty sleeping", "positive": "insomnia"}
+{"anchor": "not able to sleep", "positive": "insomnia"}
+{"anchor": "neend nahi aa rahi", "positive": "insomnia"}
+{"anchor": "jhop yet nahi", "positive": "insomnia"}
+{"anchor": "अनिद्रा", "positive": "insomnia"}
+{"anchor": "झोप येत नाही", "positive": "insomnia"}
+{"anchor": "weakness", "positive": "immunity and fatigue"}
+{"anchor": "low energy", "positive": "immunity and fatigue"}
+{"anchor": "immunity boosting", "positive": "immunity and fatigue"}
+{"anchor": "thakvat", "positive": "immunity and fatigue"}
+{"anchor": "kamzori", "positive": "immunity and fatigue"}
+{"anchor": "kamzori lag rahi hai", "positive": "immunity and fatigue"}
+{"anchor": "thakva aala aahe", "positive": "immunity and fatigue"}
+{"anchor": "थकावट", "positive": "immunity and fatigue"}
+{"anchor": "कमजोरी", "positive": "immunity and fatigue"}
+{"anchor": "sugar control", "positive": "high blood sugar support"}
+{"anchor": "diabetes support", "positive": "high blood sugar support"}
+{"anchor": "high glucose", "positive": "high blood sugar support"}
+{"anchor": "sugar badh gaya hai", "positive": "high blood sugar support"}
+{"anchor": "मधुमेह", "positive": "high blood sugar support"}
+{"anchor": "शुगर कंट्रोल", "positive": "high blood sugar support"}
+{"anchor": "burning urination", "positive": "urinary tract burning"}
+{"anchor": "urine irritation", "positive": "urinary tract burning"}
+{"anchor": "urine me jalan", "positive": "urinary tract burning"}
+{"anchor": "peshab me jalan", "positive": "urinary tract burning"}
+{"anchor": "लघवी करताना आग होणे", "positive": "urinary tract burning"}
+{"anchor": "period pain", "positive": "menstrual cramps"}
+{"anchor": "stomach cramps", "positive": "menstrual cramps"}
+{"anchor": "menstrual ache", "positive": "menstrual cramps"}
+{"anchor": "periods me bohot pain hai", "positive": "menstrual cramps"}
+{"anchor": "मासिक पाळीचा त्रास", "positive": "menstrual cramps"}
+{"anchor": "sunstroke", "positive": "sunstroke and body heat"}
+{"anchor": "garmi lagna", "positive": "sunstroke and body heat"}
+{"anchor": "body heat", "positive": "sunstroke and body heat"}
+{"anchor": "loo lag gayi", "positive": "sunstroke and body heat"}
+{"anchor": "ushnata jhalie", "positive": "sunstroke and body heat"}
+{"anchor": "ऊन लागणे", "positive": "sunstroke and body heat"}
+{"anchor": "लू लगना", "positive": "sunstroke and body heat"}
+{"anchor": "chakkar", "positive": "low blood pressure and dizziness"}
+{"anchor": "dizziness", "positive": "low blood pressure and dizziness"}
+{"anchor": "low BP feeling", "positive": "low blood pressure and dizziness"}
+{"anchor": "chakkar aa raha hai", "positive": "low blood pressure and dizziness"}
+{"anchor": "bp low jhalay", "positive": "low blood pressure and dizziness"}
+{"anchor": "चक्कर येणे", "positive": "low blood pressure and dizziness"}
+{"anchor": "khoon ki kami", "positive": "anemia and iron deficiency"}
+{"anchor": "pale skin", "positive": "anemia and iron deficiency"}
+{"anchor": "anemia", "positive": "anemia and iron deficiency"}
+{"anchor": "body me khoon kam hai", "positive": "anemia and iron deficiency"}
+{"anchor": "रक्ताल्पता", "positive": "anemia and iron deficiency"}
