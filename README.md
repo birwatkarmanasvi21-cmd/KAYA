@@ -23,7 +23,7 @@ KAYA is a full-stack, AI-powered health assistant designed to analyze user sympt
 - Node.js (v18+)
 - Python (3.9+)
 
-### 1. Start the Frontend
+### 1. Start the Frontend And the Backend
 Open a terminal in the root directory and run:
 ```bash
 # Install dependencies (if you haven't already)
